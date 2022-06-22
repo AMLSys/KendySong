@@ -13,7 +13,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL]([https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql))
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=KendySong&label=Profile+Views&style=for-the-badge)
