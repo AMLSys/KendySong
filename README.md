@@ -13,4 +13,4 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Stats
-![](https://komarev.com/ghpvc/?username=KendySong&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=KendySong&label=Profile Views&style=for-the-badge)
