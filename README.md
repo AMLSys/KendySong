@@ -19,7 +19,3 @@
 ![](https://komarev.com/ghpvc/?username=KendySong&label=Profile+Views&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendySong&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg"></img>
-       
