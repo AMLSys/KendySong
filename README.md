@@ -14,6 +14,3 @@
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KendySong&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
